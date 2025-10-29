@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahmed Yasser Samir
 
-<!--
-**ahmed-yasser12/ahmed-yasser12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Front-End Web Developer | React.js | Next.js | TypeScript | JavaScript | Tailwind CSS | shadcn Ui **
 
-Here are some ideas to get you started:
+I’m a passionate front-end developer focused on creating responsive, user-friendly, and performance-optimized web sites .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 **Tech Stack**
+- ⚛️ React.js / Next.js
+- 💅 Tailwind CSS / Bootstrap 5
+- ⚡ Vite / JavaScript (ES6+) / TypeScript
+- 🧰 Git / GitHub / REST APIs
+
+---
+
+### 💼 **Projects**
+Here are a few projects that showcase my work:
+
+| Project | Description | Tech |
+|----------|--------------|------|
+|  [UI Dashboard](https://github.com/ahmed-yasser12/Fylo) | Modern UI built with Vite, Tailwind & HyperUI | React, Tailwind |
+|  [Movies App](https://github.com/ahmed-yasser12/movies-) |The project is built with Next.js for fast rendering and routing, TypeScript for type safety and better scalability, and Tailwind CSS for clean and responsive UI design. The app provides a smooth user experience with dynamic pages, optimized SEO, and API integration to fetch real-time movie data , Real-time movies app with OpenMovies API | Next js , nextAuth.js |  TailwindCss | TS | 
+| [Real Estate Website](https://github.com/ahmed-yasser12/Sakan) | This project is if you want to sell a house, apartment or any property and buy any property in the place you want ,Property listing platform with modern UI  | React, CSS, JS|
+| [Education Platform Website](https://github.com/ahmed-yasser12/Educational_Platform) | Property listing platform with modern UI ,This is project that has three roles (admin, teacher, user, guest) each one of them has its own tasks, for example admin has many tasks such as creating codes for lectures.The teacher can upload or delete the video and add tasks for students. | React, CSS, JS ,libraries like wow.js eact-toastify,react-helmet and more|
+
+---
+
+### 📫 **Connect with Me**
+- 🌐 github: [https://github.com/ahmed-yasser12](#)
+- 💼 LinkedIn: [https://www.linkedin.com/in/ahmed-yasser-b34375228/](#)
+- 📧 Email: **ahmedyassero541@gmail.com**
+
+---
+
+### ⚡ **Fun Fact**
+> “Clean code and good design aren’t just skills — they’re habits.”
+
+Thanks for visiting my GitHub! ⭐ Feel free to explore my repositories and projects.
