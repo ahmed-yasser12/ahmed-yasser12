@@ -1,47 +1,75 @@
-# Hi 👋 I'm Ahmed Yasser
+# 👋 Hi, I'm Ahmed Yasser  
+### 🎯 Frontend Developer (React.js | Next.js)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C2FF&lines=Frontend+Developer;React+%7C+Next.js;Always+Learning)
 
-🎯 Frontend Developer (React.js | Next.js)
+🚀 I build modern, responsive, and high-performance web applications with a focus on clean code and user experience.
 
-I build modern, responsive, and high-performance web applications with a focus on clean code and user experience.
+---
 
-## 🚀 Tech Stack
+## 🧠 About Me
+- 💻 Frontend Developer specialized in React & Next.js  
+- ⚡ Passionate about building scalable UI and smooth UX  
+- 📈 Continuously learning and improving my skills  
+- 🌍 Open to Remote Opportunities  
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
 - React.js / Next.js
 - JavaScript (ES6+) / TypeScript
-- Tailwind CSS / Bootstrap
-- Zustand / Context API
-- REST APIs
+- Tailwind CSS / Bootstrap  
 
-## 📌 Featured Projects
+**State Management**
+- Zustand / Context API  
+
+**Tools**
+- Git / GitHub
+- Vite / Webpack
+- Figma to Code  
+
+---
+## 🚀 Featured Projects
 
 ### 🛒 E-Commerce App
 🔗 https://my-ecommerce-app-three-pink.vercel.app/  
-- Built with React, Zustand, Tailwind  
-- Features: Cart, Wishlist, Filters  
+- React + Zustand + Tailwind  
+- Cart, Wishlist, Product Filters  
+- Optimized performance & reusable components  
 
 ---
 
 ### 🏨 Hotel Booking App
 🔗 https://airbnb-app-sepia.vercel.app/  
-- Built with Next.js  
-- Dynamic routing + advanced search  
+- Next.js application with dynamic routing  
+- Advanced search & booking experience  
+- Fully responsive UI  
+
+---
+
+### 🏡 Real Estate Platform
+🔗 https://ahmed-yasser12.github.io/Sakan  
+- React-based system for property browsing & booking  
+- REST API integration  
+- 🎓 Graduation Project (A+ Grade)  
 
 ---
 
 ### 🎓 Educational Platform
 🔗 https://ahmed-yasser12.github.io/Educational_Platform/  
 - Admin & Teacher dashboards  
-- API integration + reusable components  
+- Scalable architecture & API integration  
+- Built as part of a team  
 
 ---
 
-### 📫 **Connect with Me**
-- 🌐 github: [https://github.com/ahmed-yasser12](#)
-- 💼 LinkedIn: [https://www.linkedin.com/in/ahmed-yasser-b34375228/](#)
-- 📧 Email: **ahmedyassero541@gmail.com**
+## 📫 Contact Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/ahmed-yasser-b34375228/  
+- 📧 Email: ahmedyassero541@gmail.com  
 
 ---
 
-### ⚡ **Fun Fact**
+## ⚡ Fun Fact
 > “Clean code and good design aren’t just skills — they’re habits.”
-
-Thanks for visiting my GitHub! ⭐ Feel free to explore my repositories and projects.
