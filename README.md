@@ -57,7 +57,7 @@
 ---
 
 ### 🎓 Educational Platform
-🔗 https://ahmed-yasser12.github.io/Educational_Platform/  
+🔗 https://ahmedhassan222.github.io/Educational_Platform/ 
 - Admin & Teacher dashboards  
 - Scalable architecture & API integration  
 - Built as part of a team  
