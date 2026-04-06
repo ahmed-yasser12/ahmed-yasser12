@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Ahmed Yasser  
-### 🎯 Frontend Developer (React.js | Next.js)
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C2FF&lines=Frontend+Developer;React+%7C+Next.js;Always+Learning)
+### 🎯 Frontend Developer (React.js | Next.js | Angular)
 
 🚀 I build modern, responsive, and high-performance web applications with a focus on clean code and user experience.
 
@@ -17,7 +16,7 @@
 ## 🛠 Tech Stack
 
 **Frontend**
-- React.js / Next.js
+- React.js / Next.js/ Angular 
 - JavaScript (ES6+) / TypeScript
 - Tailwind CSS / Bootstrap  
 
