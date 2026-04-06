@@ -6,7 +6,7 @@
 ---
 
 ## 🧠 About Me
-- 💻 Frontend Developer specialized in React & Next.js  
+- 💻 Frontend Developer specialized in React & Next.js & Angular  
 - ⚡ Passionate about building scalable UI and smooth UX  
 - 📈 Continuously learning and improving my skills  
 - 🌍 Open to Remote Opportunities  
