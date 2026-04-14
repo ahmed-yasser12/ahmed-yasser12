@@ -48,7 +48,7 @@
 ---
 
 ### 🏡 Real Estate Platform
-🔗 https://ahmed-yasser12.github.io/Sakan  
+🔗 https://ahmed-yasser12.github.io/ReactJs-Sakan/ 
 - React-based system for property browsing & booking  
 - REST API integration  
 - 🎓 Graduation Project (A+ Grade)  
