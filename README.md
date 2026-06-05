@@ -31,13 +31,13 @@
 ---
 ## 🚀 Featured Projects
 
-🚀 Marketing Agency Landing Page
+###  🚀 Marketing Agency Landing Page
 🔗 https://ahmed-yasser12.github.io/Marketing-Agency-Landing-Page/
-Modern landing page built with React.js & Tailwind CSS
-Smooth animations using Framer Motion
-Fully responsive design across all devices
-Dark/Light mode support
-Optimized performance and clean component architecture
+- Modern landing page built with React.js & Tailwind CSS
+- Smooth animations using Framer Motion
+- Fully responsive design across all devices
+- Dark/Light mode support
+- Optimized performance and clean component architecture
 
 ### 🛒 E-Commerce App
 🔗 https://my-ecommerce-app-three-pink.vercel.app/  
