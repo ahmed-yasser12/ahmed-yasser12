@@ -6,10 +6,13 @@
 ---
 
 ## 🧠 About Me
-- 💻 Frontend Developer specialized in React & Next.js & Angular  
-- ⚡ Passionate about building scalable UI and smooth UX  
-- 📈 Continuously learning and improving my skills  
-- 🌍 Open to Remote Opportunities  
+
+- 💻 Frontend Developer specialized in React.js & Next.js
+- ⚡ Passionate about building scalable and high-performance web applications
+- 🔗 Strong experience in API integration, state management, and responsive UI development
+- 🛠️ Familiar with backend fundamentals using Node.js, Express.js, MongoDB, and RESTful APIs
+- 📈 Continuously learning modern frontend and full-stack development practices
+- 🌍 Open to Remote Opportunities 
 
 ---
 
