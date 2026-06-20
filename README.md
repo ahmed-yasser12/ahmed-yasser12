@@ -35,7 +35,7 @@
 
 🔗 Live Demo: https://ahmed-yasser12.github.io/Education-paltform-ReactJs-/#/
 
-📂 GitHub Repository: https://github.com/ahmed-yasser12/Education-paltform-ReactJs-
+📂 GitHub Repository: [https://github.com/ahmed-yasser12/Education-paltform-ReactJs-]
 
 #### Tech Stack
 
