@@ -19,12 +19,12 @@
 ## 🛠 Tech Stack
 
 **Frontend**
-- React.js / Next.js/ Angular 
+- React.js / Next.js 
 - JavaScript (ES6+) / TypeScript
 - Tailwind CSS / Bootstrap  
 
 **State Management**
-- Zustand / Context API  
+- Redux / Zustand / Context API  
 
 **Tools**
 - Git / GitHub
