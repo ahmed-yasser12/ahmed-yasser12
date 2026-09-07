@@ -21,10 +21,13 @@
 **Frontend**
 - React.js / Next.js 
 - JavaScript (ES6+) / TypeScript
-- Tailwind CSS / Bootstrap  
+- Tailwind CSS / Bootstrap
+- React Hook Form
+- Zod
+- shadcn/ui
 
 **State Management**
-- Redux / Zustand / Context API  
+- Redux / Zustand / Context API / TanStack Query 
 
 **Tools**
 - Git / GitHub
