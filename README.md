@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ahmed Yasser  
-### 🎯 Frontend Developer (React.js | Next.js | Angular )
+### 🎯 Frontend Developer ( Next.js | Angular )
 
 🚀 I build modern, responsive, and high-performance web applications with a focus on clean code and user experience.
 
